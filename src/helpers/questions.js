@@ -1,0 +1,59 @@
+const questions = [
+  {
+    letter: "A",
+    word: "Az",
+    question: "Çox olmayan.",
+  },
+  {
+    letter: "B",
+    word: "Bağ",
+    question: "Meyvə ağacları ilə dolu olan məkan.",
+  },
+  {
+    letter: "C",
+    word: "Cavan",
+    question: "Gənclik dövrünü ifadə edən söz.",
+  },
+  {
+    letter: "Ç",
+    word: "Çiyələk",
+    question: "Qırmızı, xallı meyvə.",
+  },
+  {
+    letter: "D",
+    word: "Dərzi",
+    question: "Tikiş tikən işçi.",
+  },
+  {
+    letter: "E",
+    word: "Eynək",
+    question: "Gözləri qoruyan, güzgülərən şəkildə olan optik cihaz hansıdır.",
+  },
+  {
+    letter: "Ə",
+    word: "Əlifba",
+    question: "Hərflərin sadalandığı cədvəl.",
+  },
+  {
+    letter: "F",
+    word: "Fəryad",
+    question: "Narahatlıq, qorxu və ya üzülmə hissi ilə ifadə olunan hal",
+  },
+  {
+    letter: "G",
+    word: "Gül",
+    question: "Sevgi simvolu olan bitki",
+  },
+  {
+    letter: "H",
+    word: "Hərəkət",
+    question: "Cisimlərin yer dəyişdirməsi və ya aktivliyi nə adlanır",
+  },
+  {
+    letter: "X",
+    word: "Xeyir",
+    question: "Satışda maya qiymətindən qalan məbləğ",
+  },
+];
+
+export default questions;
